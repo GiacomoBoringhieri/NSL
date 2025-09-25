@@ -1,0 +1,46 @@
+# Binari compilati
+*.o
+*.exe
+*.out
+
+# File temporanei
+*~
+.DS_Store
+Thumbs.db
+
+# File di configurazione IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# File di backup
+*.backup
+*.bak
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# File di sistema macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Output e log
+*.log
+*.tmp
+
+# File di configurazione specifici per utente
+seed.in
+
+# Directory di build temporanee
+build/
+dist/
